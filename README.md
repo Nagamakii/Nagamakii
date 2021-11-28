@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, go, network+, and algorithmic trading!
 - 💞️ I’m looking to collaborate on learning new things!
 - 📫 How to reach me :3
-- 🥞 To get a better idea of my intrests, here is a list of my favorite things across many different media
+- 🥞 To get a better idea of my intrests, [here](https://github.com/Nagamakii/My-Favorite-Things.git) is a list of my favorite things across many different media
 
 <!---
 Nagamakii/Nagamakii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
