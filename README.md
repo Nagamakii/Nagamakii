@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nagamakii
-- 👀 I’m interested in video games, python, robots, apis, cranberry and mango juice, and keyboards!
+- 👀 I’m interested in video games, python, robots, APIs, cranberry and mango juice, and keyboards!
 - 🌱 I’m currently learning python, go, network+, and algorithmic trading!
 - 💞️ I’m looking to collaborate on learning new things!
 - 📫 How to reach me: [linkedIn](https://www.linkedin.com/in/evan-quah-0052a01b4/)
