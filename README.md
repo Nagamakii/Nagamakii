@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nagamakii
+- 👋 Hi, I’m Evan
 - 👀 I’m interested in video games, python, robots, APIs, cranberry and mango juice, and keyboards!
 - 🌱 I’m currently learning python, networking, front-end dev, and powershell!
 - 💞️ I’m looking to collaborate on learning new things!
