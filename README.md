@@ -1,5 +1,5 @@
 - 👋 hey hey im evan
-- i am a cybersecurity student and system administrator in the insurance field
+- i am a cybersecurity student and system admin
 - love learning and breaking things, single board computing, hacking, automation
 - check out my website (im not a webdev dont roast me) [here](https://evanquah.xyz/)
 <!---
